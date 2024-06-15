@@ -16,13 +16,13 @@ naziv varchar (100),
 iznos_sredstava decimal (20,2),
 stopa_sufinanciranja int,
 traje_do datetime,
-fond int
+fond int primary key
 );
 
 
 create table Projekt (
 sifra int,
-javni_poziv int,
+javni_poziv int primary key,
 iznos_sredstava decimal (20,2),
 stopa_sufinanciranja int,
 u_provedbi bit,
