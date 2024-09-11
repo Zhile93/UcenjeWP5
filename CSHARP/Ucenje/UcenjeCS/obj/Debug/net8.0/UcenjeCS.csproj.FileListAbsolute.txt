@@ -1,0 +1,15 @@
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\bin\Debug\net8.0\UcenjeCS.exe
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\bin\Debug\net8.0\UcenjeCS.deps.json
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\bin\Debug\net8.0\UcenjeCS.runtimeconfig.json
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\bin\Debug\net8.0\UcenjeCS.dll
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\bin\Debug\net8.0\UcenjeCS.pdb
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.AssemblyInfoInputs.cache
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.AssemblyInfo.cs
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.csproj.CoreCompileInputs.cache
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.sourcelink.json
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.dll
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\refint\UcenjeCS.dll
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.pdb
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\UcenjeCS.genruntimeconfig.cache
+C:\Users\Goran\Documents\GitHub\UcenjeWP5\CSHARP\Ucenje\UcenjeCS\obj\Debug\net8.0\ref\UcenjeCS.dll
