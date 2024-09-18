@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Goran\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53C6F87B-994D-4B48-BFDC-3EFD10626F62}|UcenjeCS\\UcenjeCS.csproj|c:\\users\\goran\\documents\\github\\ucenjewp5\\csharp\\ucenje\\ucenjecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53C6F87B-994D-4B48-BFDC-3EFD10626F62}|UcenjeCS\\UcenjeCS.csproj|solutionrelative:ucenjecs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC0BFAA-5C3F-4BB0-9CDE-D3311E2D4820}|WebAPI\\WebAPI.csproj|c:\\users\\goran\\documents\\github\\ucenjewp5\\csharp\\ucenje\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC0BFAA-5C3F-4BB0-9CDE-D3311E2D4820}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Goran\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\UcenjeCS\\Program.cs",
-              "RelativeDocumentMoniker": "UcenjeCS\\Program.cs",
-              "ToolTip": "C:\\Users\\Goran\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\UcenjeCS\\Program.cs",
-              "RelativeToolTip": "UcenjeCS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Goran\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Goran\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\WebAPI\\Controllers\\WeatherForecastController.cs*",
+              "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T10:20:42.227Z",
+              "WhenOpened": "2024-09-18T16:49:16.238Z",
               "EditorCaption": ""
             }
           ]
