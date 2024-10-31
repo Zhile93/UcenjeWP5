@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "y8mGd1P69X8=",
+  "dgSpecHash": "dKBhZwlsPyM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Goran\\Documents\\GitHub\\UcenjeWP5\\CSHARP\\Ucenje\\UcenjeCS\\UcenjeCS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Goran\\.nuget\\packages\\faker.net\\2.0.163\\faker.net.2.0.163.nupkg.sha512",
+    "C:\\Users\\Goran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Goran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Goran\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
